@@ -3,8 +3,8 @@ Hello! I'm Gulzar, a passionate developer dedicated to turning innovative ideas 
 # Projects that we are going to make in this journey
 Welcome! Here will be a list of various projects I will create. Each project will be a result of new learning and experiences.
 ## Beginner level
-1. Personal portfolio website
-2. Simple todo list
+1. Personal portfolio website ||  [Live demo](https://portfolio-codewithgulzarsaifi.netlify.app/)  |  [Source code](https://github.com/CodeWithGulzarsaifi/Personal-portfolio)
+2. Simple todo list ||  [Live demo](https://to-do-codewithgulzarsaifi.netlify.app/)  |  [Source code](https://github.com/CodeWithGulzarsaifi/to-do)
 3. Weather app
 4. Basic calculator
 5. Quote calculator
