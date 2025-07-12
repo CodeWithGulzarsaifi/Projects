@@ -73,7 +73,7 @@ HTML, CSS, JavaScript, Node.js/PHP, Python, SQL/MongoDB, Solidity, WebSockets
 #### This layout gives you a clear overview of the languages and technologies that could be applied across your projects, making it easier to understand what skills you might need to develop!
 
 ## Thank you
-Thank you for taking the time to explore my projects! Your interest and support mean a lot to me. I hope you find inspiration and insight in my work. If you have any questions or feedback, please feel free to reach out. Together, we can learn and grow in this exciting world of technology!
+Thank you for taking the time to explore my projects! Your interest and support mean a lot to me. I hope you find inspiration and insight in my work. If you have any questions or feedback, please feel free to reach out. Together, we can learn and grow in this exciting world of technology !
 
 #### Gulzar
 
