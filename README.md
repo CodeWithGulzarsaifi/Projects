@@ -6,7 +6,7 @@ Welcome! Here will be a list of various projects I will create. Each project wil
 1. Personal portfolio website ||  [Live demo](https://portfolio-codewithgulzarsaifi.netlify.app/)  |  [Source code](https://github.com/CodeWithGulzarsaifi/Personal-portfolio)
 2. Simple todo list ||  [Live demo](https://to-do-codewithgulzarsaifi.netlify.app/)  |  [Source code](https://github.com/CodeWithGulzarsaifi/to-do)
 3. Weather app ||  [Live demo](https://weather-app-codewithgulzarsaifi.netlify.app/)  |  [Source code](https://github.com/CodeWithGulzarsaifi/weather-app)
-4. Basic calculator
+4. Basic calculator ||  [Live demo](https://calculator-codewithgulzarsaifi.netlify.app/)  |  [Source code](https://github.com/CodeWithGulzarsaifi/calculator)
 5. Quote calculator
 6. Blog
 7. Photo gallery
